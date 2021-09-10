@@ -1,0 +1,2 @@
+# SpringBootAuthentication1
+SpringBootAuthentication1 contains SpringBoot authentication example by JWT
